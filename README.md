@@ -8,6 +8,9 @@
 
 :sparkles:  I like the Administration too... 
 
+:globe_with_meridians: You can find me on [LinkedIn](https://www.linkedin.com/in/leidy-viloria-031278165/)
+
+
 
 <!---
 landreina/landreina is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
