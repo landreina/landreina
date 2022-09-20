@@ -1,4 +1,4 @@
-## 👋 Hi, I’m Leidy 
+## Hi, I’m Leidy  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 :computer:  I want to grow as a developer, building optimal  solutions...
 
